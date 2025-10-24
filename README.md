@@ -3,7 +3,7 @@
 Website: [www.Fjox.win](https://www.Fjox.win)\
 ActivityPub: [@fox@hostnetwork.xyz](https://social.hostnetwork.xyz/@fox)
 
-### Links\
+### Links
 [git.Fjox.win/Fjox/test](https://git.Fjox.win/Fjox/test)\
 [CodeBerg.org/Fjox/test](https://codeberg.org/Fjox/test)\
 [GitLab.com/Fjox/test](https://gitlab.com/Fjox/test)\
