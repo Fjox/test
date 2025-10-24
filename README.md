@@ -1,5 +1,9 @@
 # Test
 
+Website: [www.Fjox.win](https://www.Fjox.win)
+
+ActivityPub: [@fox@hostnetwork.xyz](https://social.hostnetwork.xyz/@fox)
+
 ### Links
 [git.Fjox.win/Fjox/test](https://git.Fjox.win/Fjox/test)
 
