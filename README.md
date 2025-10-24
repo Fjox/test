@@ -10,3 +10,5 @@
 [GitHub.com/Fjox/test](https://github.com/Fjox/test)
 
 [git.asonix.dog/Fjox/test](https://git.asonix.dog/Fjox/test)
+
+[Gitea.com/Fjox/test](https://gitea.com/Fjox/test)
