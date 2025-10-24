@@ -7,7 +7,7 @@ ActivityPub: [@fox@hostnetwork.xyz](https://social.hostnetwork.xyz/@fox)
 ### Links
 [git.Fjox.win/Fjox/test](https://git.Fjox.win/Fjox/test)
 
-[CodeBerg.org/Fjox/test](https://codeber.org/Fjox/test)
+[CodeBerg.org/Fjox/test](https://codeberg.org/Fjox/test)
 
 [GitLab.com/Fjox/test](https://gitlab.com/Fjox/test)
 
